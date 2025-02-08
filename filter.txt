@@ -56,4 +56,3 @@
 ||livekit.cloud^
 ||163.com^
 ||transitto.online^
-||mail.ru^

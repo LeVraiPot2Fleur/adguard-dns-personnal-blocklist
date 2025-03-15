@@ -41,10 +41,10 @@
 ||voiranime.com^
 ||cheatevolution.com^
 ||trainerscity.com^
-||api.wemod.com^
+||wemod.com^
 ||plitch.com^
 ||announcekit.co^
-||core.service.elfsight.com^
+||elfsight.com^
 ||cdn.announcekit.app^
 ||cheathappens.com^
 ||flingtrainer.com^
@@ -56,3 +56,12 @@
 ||livekit.cloud^
 ||163.com^
 ||transitto.online^
+||tylocintriones.com^
+||googlezip.net^
+||ghostery.net^
+||dollars-bbs.org^
+||mehtrainer.com^
+||cheathappensnext.com^
+||ch-downloads.com^$
+||gtrainers.com^
+||animecharactersdatabase.com^

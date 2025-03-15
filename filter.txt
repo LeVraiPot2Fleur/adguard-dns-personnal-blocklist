@@ -65,3 +65,10 @@
 ||ch-downloads.com^$
 ||gtrainers.com^
 ||animecharactersdatabase.com^
+||widgetlogic.org^
+||boo.world^
+||ranker.com^
+||simplelocalize.io^
+||civitai.com^
+||anyrgb.com^
+||anisearch.com^

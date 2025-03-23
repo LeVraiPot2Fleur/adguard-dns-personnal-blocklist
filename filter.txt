@@ -80,6 +80,7 @@
 ||rapidcdn.xyz^
 ||speedycdn.xyz^
 ||cdnflow.net^
+||datadistribute.live
 ||streamlineddata.pro^
 ||iwrxsrjl.com^
 ||edgeaccelerator.space^

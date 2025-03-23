@@ -72,3 +72,16 @@
 ||civitai.com^
 ||anyrgb.com^
 ||anisearch.com^
+||datadistribute.cloud^
+||datafrenzy.org^
+||contentnode.net^
+||swiftcdn.org^
+||edgeaccelerator.xyz^
+||rapidcdn.xyz^
+||speedycdn.xyz^
+||cdnflow.net^
+||streamlineddata.pro^
+||iwrxsrjl.com^
+||edgeaccelerator.space^
+||rapidcdn.xyz^
+||animesolution.com^

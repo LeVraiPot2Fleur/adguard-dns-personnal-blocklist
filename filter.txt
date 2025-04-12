@@ -62,7 +62,7 @@
 ||dollars-bbs.org^
 ||mehtrainer.com^
 ||cheathappensnext.com^
-||ch-downloads.com^$
+||ch-downloads.com^
 ||gtrainers.com^
 ||animecharactersdatabase.com^
 ||widgetlogic.org^
@@ -80,9 +80,12 @@
 ||rapidcdn.xyz^
 ||speedycdn.xyz^
 ||cdnflow.net^
-||datadistribute.live
+||datadistribute.live^
 ||streamlineddata.pro^
 ||iwrxsrjl.com^
 ||edgeaccelerator.space^
 ||rapidcdn.xyz^
 ||animesolution.com^
+||papadustream.black^
+||krafton.io^
+||freedownloadmanager.org^

@@ -107,8 +107,6 @@
 ||brmtr.org^
 ||pleasecontinueforward.com^
 ||linemanphasing.top^
-||ty-eu-storage30.s3.dualstack.eu-central-1.amazonaws.com^
-||tuyaeu.com^
 ||qwertzqay.su^
 ||yaoiscan.fr^
 ||craigslist.org^

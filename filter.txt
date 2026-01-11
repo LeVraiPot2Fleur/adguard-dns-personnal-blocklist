@@ -156,3 +156,6 @@
 ||characterai.io^
 ||vicegoriest.shop^
 ||falais.com^
+||dkcdc01.corp.ioi.dk^
+||polybuzz.ai^
+||polyspeak.ai^
